@@ -1,0 +1,5 @@
+prisvoeno: a = 1
+prisvoeno: b = 2
+prisvoeno: c = 3
+udaleno: a = 1
+udaleno: b = 2
